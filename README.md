@@ -2,9 +2,9 @@
 Вариации реализации:
 | Репозиторий | Описание  |
 | ------------ | ------------ |
-| TicketsAPI | реализация без репозиториев, только с сервисами `(Controller-Serviece-DataBase)`|
-| TicketsAPI-Repo  | реализация с асинхронными репозиториями `(Controller-Serviece-Repository-DataBase)`|
-|  TicketsAPI-Unit-Repo |  реализация с асинхронными репозиториями, через паттерн Unit of Work `(Controller-Serviece-UnitOfWork-Repository-DataBase)`|
+| TicketsAPI | реализация без репозиториев, только с сервисами `(Controller-Service-DataBase)`|
+| TicketsAPI-Repo  | реализация с асинхронными репозиториями `(Controller-Service-Repository-DataBase)`|
+|  TicketsAPI-Unit-Repo |  реализация с асинхронными репозиториями, через паттерн Unit of Work `(Controller-Service-UnitOfWork-Repository-DataBase)`|
 # Тестовый JSON
 ```json
 {
